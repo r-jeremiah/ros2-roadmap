@@ -1,9 +1,3 @@
----
-
-**GitHub Pages Deployment Pipeline (`.github/workflows/docs.yml`)**
-Create `.github/workflows/docs.yml` to automatically build your Sphinx project and deploy it to GitHub Pages whenever changes hit the main branch.
-
-```yaml
 name: Deploy Sphinx Docs to GitHub Pages
 
 on:
