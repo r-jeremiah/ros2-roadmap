@@ -1,5 +1,42 @@
+html {
+    box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: inherit;
+}
+
 .wy-nav-content {
+    width: 100%;
     max-width: 1200px;
+    margin: 0 auto;
+}
+
+.rst-content {
+    min-width: 0;
+}
+
+.rst-content img {
+    max-width: 100%;
+    height: auto;
+}
+
+.rst-content table.docutils {
+    display: block;
+    max-width: 100%;
+    overflow-x: auto;
+}
+
+.rst-content pre,
+.rst-content div[class^="highlight"] {
+    max-width: 100%;
+    overflow-x: auto;
+}
+
+.rst-content a {
+    overflow-wrap: anywhere;
 }
 
 .document h1 {
@@ -12,4 +49,19 @@
 
 .sidebar-brand-text {
     font-weight: 700;
+}
+
+@media screen and (max-width: 768px) {
+    .wy-nav-content {
+        padding: 1.5em 1em;
+    }
+
+    .wy-breadcrumbs-aside {
+        display: none;
+    }
+
+    .rst-content .section ul,
+    .rst-content .section ol {
+        padding-left: 1.5em;
+    }
 }
