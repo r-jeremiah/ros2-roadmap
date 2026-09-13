@@ -1,7 +1,7 @@
 # Configuration file for the Sphinx documentation builder.
 
 project = 'ROS 2 Roadmap'
-copyright = '2026'
+copyright = '2026, Renz Jeremiah Mercado'
 author = 'Renz Jeremiah Mercado'
 
 # -- General configuration ------------------------------------------------
