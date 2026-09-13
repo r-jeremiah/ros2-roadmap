@@ -1,6 +1,6 @@
 # ROS 2 Roadmap Documentation
 
-[![Docs CI](https://github.com/<username>/ros2-roadmap/actions/workflows/docs.yml/badge.svg)](https://github.com/<username>/ros2-roadmap/actions/workflows/docs.yml)
+[![Docs CI](https://github.com/r-jeremiah/ros2-roadmap/actions/workflows/docs.yml/badge.svg)](https://github.com/r-jeremiah/ros2-roadmap/actions/workflows/docs.yml)
 [![Documentation Status](https://readthedocs.org/projects/ros2-roadmap/badge/?version=latest)](https://ros2-roadmap.readthedocs.io/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
