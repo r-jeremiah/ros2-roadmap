@@ -1,0 +1,15 @@
+.wy-nav-content {
+    max-width: 1200px;
+}
+
+.document h1 {
+    color: #1f4e79;
+}
+
+.highlight {
+    border-radius: 4px;
+}
+
+.sidebar-brand-text {
+    font-weight: 700;
+}
