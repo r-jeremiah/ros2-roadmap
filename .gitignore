@@ -1,6 +1,7 @@
 # Sphinx build output
 docs/build/
 docs/source/_build/
+examples/README.md
 
 # Python artifacts
 __pycache__/

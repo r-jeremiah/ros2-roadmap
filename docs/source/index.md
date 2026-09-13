@@ -1,15 +1,11 @@
-# ROS 2 Roadmap Documentation
+# ROS 2 Learning Path
 
-[![Docs CI](https://github.com/r-jeremiah/ros2-roadmap/actions/workflows/docs.yml/badge.svg)](https://github.com/r-jeremiah/ros2-roadmap/actions/workflows/docs.yml)
-[![Documentation](https://img.shields.io/badge/docs-GitHub%20Pages-blue)](https://r-jeremiah.github.io/ros2-roadmap/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+This site is the technical record of my path toward ROS 2 and robotics software engineering. It combines structured study with implementation evidence: commands, diagrams, code, tests, and engineering notes.
 
-Welcome to the architectural documentation and roadmap for industrial-grade ROS 2 mobile manipulation systems.
+The project is currently establishing its foundation and documentation workflow. Each later phase will add focused technical content and runnable examples.
 
 ```{toctree}
-:maxdepth: 2
-:caption: Roadmap Phases:
+:maxdepth: 1
+:caption: Published Roadmap Phases:
 
-phases/phase-1-architecture
-phases/phase-2-core-nodes
-phases/phase-3-navigation
+phases/phase-1-foundation
