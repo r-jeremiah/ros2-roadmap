@@ -1,0 +1,9 @@
+# Sphinx build output
+docs/build/
+docs/source/_build/
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+.venv/
+venv/
